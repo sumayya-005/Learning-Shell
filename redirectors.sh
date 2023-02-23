@@ -8,9 +8,8 @@
 # 3. Merge   -“p >& q” Merges output from stream p with stream q
 #“p <& q” Merges input from stream p with stream q
 
-cd learning-Shell #changing directory
+#cd learning-Shell #changing directory
 
-ls #shows the files
 ls >/tmp/out #stndout in tmp/out
 cat /tmp/out #shows the content similar to the learning-shell .
 
