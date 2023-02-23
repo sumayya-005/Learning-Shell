@@ -17,5 +17,5 @@ ls >>/tmp/out #appends  the output
 
 #stdout (1>)(>) -only output
 #stderr(2>) - only error
-#stdout&stderr(&>) -both outpout and error
+#stdout&stderr(&>) -both output and error
 
