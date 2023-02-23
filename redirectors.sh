@@ -19,3 +19,4 @@ ls >>/tmp/out #appends  the output
 #stderr(2>) - only error
 #stdout&stderr(&>) -both output and error
 
+#/dev/null - Nullify the output or error
