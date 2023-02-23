@@ -12,5 +12,6 @@
 
 ls >/tmp/out #stndout in tmp/out
 cat /tmp/out #shows the content similar to the learning-shell .
-
+cd ..
+ls >>/tmp/out
 
