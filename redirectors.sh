@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 #Redirection here simply means diverting the output or input.
 #1. Overwrite  -“>” standard output
