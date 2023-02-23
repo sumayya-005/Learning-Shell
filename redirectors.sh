@@ -10,10 +10,10 @@
 
 #cd learning-Shell #changing directory
 
-ls >/tmp/out #stndout in tmp/out
-cat /tmp/out #shows the content similar to the learning-shell .
-cd .. #coming out of the directory
-ls >>/tmp/out #appends  the output
+#ls >/tmp/out #stndout in tmp/out
+#cat /tmp/out #shows the content similar to the learning-shell .
+#cd .. #coming out of the directory
+#ls >>/tmp/out #appends  the output
 
 #stdout (1>)(>) -only output
 #stderr(2>) - only error
