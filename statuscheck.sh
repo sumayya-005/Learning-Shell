@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #exitstatus gives the return value.
-#syntax:statuscheck= $?
+#syntax:statuscheck $?
 
 echo " a b c d "
-statuscheck=$?
+statuscheck $?
