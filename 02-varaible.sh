@@ -18,3 +18,7 @@ echo Addition is $ADD
 #Everything is a string.
 #As a user you should know that what data would come,since there is no data types.
 
+#Properties of Variables
+#Arrays helps to read any value of variables in bulk
+#Local property
+#environment Variables
