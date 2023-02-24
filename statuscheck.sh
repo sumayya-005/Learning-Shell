@@ -4,4 +4,4 @@
 #syntax:statuscheck $?
 
 echo " a b c d "
-echo status $?
+echo status = $?
