@@ -1,14 +1,12 @@
 #!/bin/bash
-
-FILE="/home/learning-Shell/02-variables.sh"
-
-if [ -e "$FILE" ];then
-echo "$FILE passwords are enabled"
+FILE="/home/learning-Shell/she-bang.sh"
+if [ -e "$FILE" ]
+  then
+     echo "$FILE passwords are enabled."
 fi
-
-#if [ -x "$FILE" ];then
-#  echo "You have permissions to edit the file."
-#else
-#  echo "You don't have permissions to edit the file."
-#
-#fi
+if [ -x “$FILE” ]
+  then
+    echo “You have permition to execute $FILE”
+  else
+    echo “You do Not have permissions to execute $FILE”
+fi
