@@ -7,3 +7,6 @@ read -p "Enter Username : " username
 read -p "Enter the Ip: " IP
 
 ssh $username@$IP
+
+username=$1
+IP=$2
