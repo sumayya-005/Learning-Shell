@@ -10,3 +10,7 @@ if [ -x "$FILE" ]
   else
     echo "You do Not have permissions to execute $FILE"
 fi
+
+
+ANIMALS=(man bear dog cat sheep)
+echo ${ANIMALS(0)}

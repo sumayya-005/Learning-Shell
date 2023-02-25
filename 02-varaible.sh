@@ -20,5 +20,8 @@ echo Addition is $ADD
 
 #Properties of Variables
 #Arrays helps to read any value of variables in bulk
+b=(10 20)
+echo ${b(0)}
+
 #Local property
 #environment Variables
