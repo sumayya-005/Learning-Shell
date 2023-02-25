@@ -14,4 +14,3 @@
 9. SED Editor
  
 Task-1 : Script for Connecting to the VM by Providing Ip address.
-Task-2 : 
