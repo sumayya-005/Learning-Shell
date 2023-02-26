@@ -15,7 +15,7 @@
 #ANIMALS=(man bear dog cat sheep)
 #echo ${ANIMALS(0)}
 
-# Script connecting to the VM through  script
+# Script connecting to the VM.
 read -p "Enter Username : " username
 read -p "Enter the Ip: " IP
 
